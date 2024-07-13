@@ -35,7 +35,7 @@
 - Color the graph points with the labels found using K-means.
 - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 ---
-<img width="870" alt="Screenshot 2024-07-12 at 9 21 39 PM" src="https://github.com/user-attachments/assets/55a5da5e-6ef5-41ce-a866-f16d0ca6c7fd", width = 1200>
+<img width="1200" alt="Screenshot 2024-07-12 at 9 21 39 PM" src="https://github.com/user-attachments/assets/55a5da5e-6ef5-41ce-a866-f16d0ca6c7fd">
 ---
 
 ## 4-Optimize Clusters with Principal Component Analysis**
@@ -60,7 +60,7 @@ Answer the following question in your notebook:
 * What is the best value for k when using the PCA data?
 * Does it differ from the best k value found using the original data?
 ---
-<img width="912" alt="Screenshot 2024-07-12 at 9 18 07 PM" src="https://github.com/user-attachments/assets/f85ebcbd-0e9a-4f6c-b65b-3165e1f14fdf",width = 1200>
+<img width="1200" alt="Screenshot 2024-07-12 at 9 18 07 PM" src="https://github.com/user-attachments/assets/f85ebcbd-0e9a-4f6c-b65b-3165e1f14fdf">
 
 ---
 
